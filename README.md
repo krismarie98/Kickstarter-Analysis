@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 ## Overview of Project
-### The purpose of this analysis is to learn more about the data sets and to gain a good understanding of excel and how date within the workbook can be manipulated. For example the use of pivot tables to manipulate date to specific information in order to have a better understanding.Additionally the use of graphs as a way to visualize data.
+### The purpose of this analysis is to learn more about the data sets and to gain a good understanding of excel and how data within the workbook can be manipulated. For example the use of pivot tables to manipulate date to specific information in order to have a better understanding. Additionally the use of graphs as a way to visualize data.
 ## Analysis and Challenges
 ### I used images/graphs to visualize the data. Using these images allowed me to see smaller subsets of data to gain understanding as a whole. One issue I ran into was in the sheet Outcomes Based on Goals. I had a hard time understanding the correct way to format my function and then once I got a better handle on it and finished two columns I realized I left out the plays conditional. So then I had to go back look at the format I had created and figure out where plays needed to be placed. This hiccup allowed be to really understand what I was doing and not just copy and paste.
 ## Results 
